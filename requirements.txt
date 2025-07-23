@@ -1,0 +1,7 @@
+transformers
+torch
+deep-translator
+streamlit
+gradio
+SpeechRecognition
+pyaudio

@@ -1,0 +1,17 @@
+Right click on NLP File-->open in terminal
+
+python -m venv translate-env
+translate-env\Scripts\activate
+
+python.exe -m pip install --upgrade pip
+pip install streamlit
+pip install deep-translator
+pip install transformers
+pip install torch
+
+
+pip install SpeechRecognition
+pip install pyaudio
+
+streamlit run app.py
+
