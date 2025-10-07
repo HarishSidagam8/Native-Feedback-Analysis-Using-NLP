@@ -15,12 +15,7 @@ A Streamlit web application that allows users to provide feedback in **any langu
 
 ---
 
-## 📷 Demo
 
-![Demo Screenshot](screenshots/demo_ui.png)  
-*(Add your own screenshot or screen recording here)*
-
----
 
 ## 🧰 Tech Stack
 
